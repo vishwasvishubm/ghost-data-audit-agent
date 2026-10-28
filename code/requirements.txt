@@ -1,0 +1,3 @@
+google-genai>=2.33
+python-dotenv>=1.2
+pymupdf>=2.0

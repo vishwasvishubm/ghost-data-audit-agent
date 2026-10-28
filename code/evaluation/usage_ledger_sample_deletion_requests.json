@@ -1,0 +1,126 @@
+{
+ "requests_file": "sample_deletion_requests.csv",
+ "requests": 32,
+ "calls": [
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1217,
+   "output_tokens": 509,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1229,
+   "output_tokens": 523,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1203,
+   "output_tokens": 604,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1203,
+   "output_tokens": 591,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1229,
+   "output_tokens": 589,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1217,
+   "output_tokens": 483,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1203,
+   "output_tokens": 698,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1229,
+   "output_tokens": 806,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1229,
+   "output_tokens": 578,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1203,
+   "output_tokens": 861,
+   "cached": true
+  },
+  {
+   "purpose": "screenshot_transcription",
+   "provider": "google",
+   "model": "gemini-3.8-flash",
+   "input_tokens": 1229,
+   "output_tokens": 438,
+   "cached": true
+  },
+  {
+   "purpose": "intent_classification",
+   "provider": "google",
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 4408,
+   "output_tokens": 4317,
+   "cached": true
+  },
+  {
+   "purpose": "intent_classification",
+   "provider": "google",
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 4635,
+   "output_tokens": 3313,
+   "cached": true
+  },
+  {
+   "purpose": "intent_classification",
+   "provider": "google",
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 4359,
+   "output_tokens": 4417,
+   "cached": true
+  },
+  {
+   "purpose": "intent_classification",
+   "provider": "google",
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 4334,
+   "output_tokens": 4333,
+   "cached": true
+  }
+ ]
+}

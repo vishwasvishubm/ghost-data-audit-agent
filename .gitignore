@@ -1,0 +1,15 @@
+# Secrets and local environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Challenge data belongs to HackerRank: copy it locally from the official repo, never commit it
+dataset/
+problem_statement.md
+
+# Generated
+output.csv
+sample_predictions.csv
+code/.cache/
+code.zip
